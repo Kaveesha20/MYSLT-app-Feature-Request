@@ -6,7 +6,7 @@ import os
 
 
 # Streamlit app configuration
-st.set_page_config(page_title="MYSLT App Feature Requests", layout="wide")
+st.set_page_config(page_title="MYSLT  Feature Requests", layout="wide")
 # password = st.text_input("Enter Password", type="password")
 # if password != "Nirmani@25":
 #     st.error("Access denied")
