@@ -8,7 +8,7 @@ import os
 # Streamlit app configuration
 st.set_page_config(page_title="MYSLT Feature Requests", layout="wide")
 
-st.title("MYSLT  Feature Requests")
+st.title("MYSLT App Feature Requests")
 st.markdown("""
 Welcome to the MYSLT feature request dashboard. Explore feature requests from Google Play and App Store reviews, categorized for development prioritization.
 """)
