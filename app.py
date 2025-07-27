@@ -10,7 +10,7 @@ st.set_page_config(page_title="MYSLT Feature Requests", layout="wide")
 
 st.title("MYSLT App Feature Requests")
 st.markdown("""
-Welcome to the MYSLT feature request dashboard. Explore feature requests from Google Play and App Store reviews, categorized for development prioritization.
+Welcome to the MYSLT App feature request dashboard. Explore feature requests from Google Play and App Store reviews, categorized for development prioritization.
 """)
 
 # File paths (update these if hosted elsewhere, e.g., Google Drive)
